@@ -16,7 +16,7 @@ console.log(typeof y)
 let arr = [1,2,3,4]
 console.log(arr)
 console.log(typeof arr)
-let obj = {
+let obj = { 
     name: "mohan",
     age: 18,    
 }
@@ -27,3 +27,4 @@ console.log(arr[0])
 console.log(arr[3])
 console.log(arr.length)
 arr.push(5) 
+console.log(obj["name"])
